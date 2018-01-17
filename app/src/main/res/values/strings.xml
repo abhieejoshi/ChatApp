@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="FCM_PREF">com.example.root.firebaseproject.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.root.firebaseproject.fcm_token</string>
+    <string name="signout">Sign Out</string>
+    <string name="reciever_email">Receiver Email</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send Message</string>
+    <string name="signin">SIGNIN</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_a_user_login">Already a User? Login</string>
+    <string name="signup">SIGNUP</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tokenurl">http://192.168.0.10/fcm/fcmsend.php</string>
+    <string name="otp_url">http://192.168.0.10/fcm/forgotmail.php</string>
+    <string name="messageurl">http://192.168.0.10/fcm/notification.php</string>
+    <string name="user_profile">User Profile</string>
+    <string name="user_email">User Email</string>
+    <string name="user_name">User Name</string>
+    <string name="update">UPDATE</string>
+    <string name="otp">OTP</string>
+    <string name="todo">TODO</string>
+
+</resources>
